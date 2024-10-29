@@ -1,0 +1,4 @@
+[ Tue Oct 29 18:37:08 2024 ] Load weights from work_dir/tegcn_jb/2102-44-11520.pt.
+[ Tue Oct 29 18:37:08 2024 ] using warm up, epoch: 0
+[ Tue Oct 29 18:37:34 2024 ] Load weights from work_dir/tegcn_jb/2102-44-11520.pt.
+[ Tue Oct 29 18:37:35 2024 ] using warm up, epoch: 0

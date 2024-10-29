@@ -1,0 +1,2 @@
+[ Sun Oct 27 13:32:25 2024 ] Load weights from work_dir/mix_bone/runs-59-17818.pt.
+[ Sun Oct 27 13:32:25 2024 ] using warm up, epoch: 5

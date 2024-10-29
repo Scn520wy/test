@@ -1,0 +1,2 @@
+[ Sun Oct 27 13:25:46 2024 ] Load weights from work_dir/ctr2d_bm/runs-56-16912.pt.
+[ Sun Oct 27 13:25:46 2024 ] using warm up, epoch: 5

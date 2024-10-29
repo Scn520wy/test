@@ -1,0 +1,2 @@
+[ Sun Oct 27 13:17:55 2024 ] Load weights from work_dir/ctrgcn_bone/runs-38-11476.pt.
+[ Sun Oct 27 13:17:55 2024 ] using warm up, epoch: 5

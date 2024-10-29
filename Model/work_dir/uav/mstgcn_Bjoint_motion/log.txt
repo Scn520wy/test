@@ -1,0 +1,2 @@
+[ Sun Oct 27 13:19:03 2024 ] Load weights from work_dir/mstgcn_jm/runs-59-17818.pt.
+[ Sun Oct 27 13:19:04 2024 ] using warm up, epoch: 5
